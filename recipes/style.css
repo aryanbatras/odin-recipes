@@ -1,0 +1,35 @@
+#title {
+    font-family: cursive;
+    text-align: center;
+    font-size: 36px;
+    color: chocolate;
+    padding-bottom: 20px;
+
+}
+
+#maggi {
+    width: 240px;
+    height: 200px;
+}
+
+.title {
+    font-family: Verdana, sans-serif;
+    color: bisque;
+    padding-left: 20px;
+    background-color: brown;
+}
+
+#list {
+    color: crimson;
+    padding-left: 10px;
+    font-weight: lighter;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.text {
+    font-style: italic;
+    color: crimson;
+    padding-left: 15px;
+    font-weight: lighter;
+}
